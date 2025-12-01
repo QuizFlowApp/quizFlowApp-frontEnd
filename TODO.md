@@ -1,0 +1,6 @@
+- [x] Create EmailAuthPage widget for email/password authentication
+- [x] Create GoogleSignInPage widget for Google sign-in
+- [x] Modify RegistrationPage to be AuthChoicePage with buttons for each auth method
+- [x] Update MyApp routes to include new pages
+- [x] Update AuthWrapper to use AuthChoicePage
+- [x] Test navigation and authentication flows
